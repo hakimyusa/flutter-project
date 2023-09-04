@@ -1,2 +1,2 @@
 # flutter-project
-Tugas Pemrograman Perangkat Keras
+Tugas Pemrograman Perangkat Bergerak (Mobile)
